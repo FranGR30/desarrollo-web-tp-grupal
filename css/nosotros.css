@@ -1,0 +1,24 @@
+.card-body {
+    padding: 20px;
+    background-color: #425480;
+    color: white;
+    border-radius: 15px;
+}
+
+h2 {
+    font-weight: bold;
+    color: #333;
+}
+
+.custom-card {
+    min-height: 350px;
+}
+
+.custom-card img,
+.custom-card h5 {
+    margin-bottom: 15px;
+}
+
+.custom-card .btn {
+    margin-top: 15px;
+}
