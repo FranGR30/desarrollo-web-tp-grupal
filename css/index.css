@@ -19,3 +19,9 @@ main::before {
     opacity: 0.6; /* Opacidad solo para la imagen de fondo */
     z-index: -1; /* Para que quede detrás del contenido */
 }
+
+@media (max-width: 768px){
+    .container{
+
+    }
+}

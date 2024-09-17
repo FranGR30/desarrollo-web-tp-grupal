@@ -21,4 +21,10 @@ h2 {
 
 .custom-card .btn {
     margin-top: 15px;
+    margin-right: 10px;
+    width: calc(45%);
+}
+
+.buttons{
+    width: 100%;
 }
