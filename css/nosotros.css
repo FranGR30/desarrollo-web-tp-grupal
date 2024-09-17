@@ -14,17 +14,22 @@ h2 {
     min-height: 350px;
 }
 
+.card-div{
+
+    min-width: 310px;
+}
+
 .custom-card img,
 .custom-card h5 {
     margin-bottom: 15px;
 }
 
 .custom-card .btn {
-    margin-top: 15px;
     margin-right: 10px;
     width: calc(45%);
 }
 
 .buttons{
+    display: flex;
     width: 100%;
 }
